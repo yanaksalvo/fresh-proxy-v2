@@ -1,0 +1,87 @@
+Proxy Bilgileri
+195.142.175.80:65000:george:george
+31.145.172.124:60000:george:george
+
+46.221.42.202:1080:george:george     -S11-
+
+95.173.161.5:1080:george:george      -1-
+
+195.46.151.236:1080:george:george    -2-
+
+89.252.168.152:1080:george:george    -3-
+
+95.173.160.27:1080:george:george     -4-
+
+195.142.171.35:65000:george:george   -5-
+
+195.142.221.118:65000:george:george
+
+89.252.171.13:1080:george:george     -7-
+
+62.244.253.248:1080:george:george    -8-
+
+89.252.171.12:1080:george:george     -9-
+
+95.173.161.27:1080:george:george     -10-
+
+95.173.162.247:1080:george:george    -S12-
+
+84.44.31.148:1080:george:george      -S13-
+
+195.46.147.171:1080:george:george    -S14-
+
+46.221.42.218:1080:george:george     -S15-
+
+195.142.29.28:65000:george:george    -11-
+
+195.87.113.94:60000:george:george    -12-
+
+212.12.156.144:60000:george:george   -13-
+
+89.252.171.23:1080:george:george     -14-
+
+195.142.160.231:65000:george:george  -15-
+
+195.142.29.10:65000:george:george    -16-
+
+95.173.163.174:1080:george:george    -17-
+
+
+Proxy Bilgileri
+
+212.98.228.100:60000:george:george     -6-
+
+95.173.164.101:1080:george:george      -S2-
+
+31.145.164.71:1080:george:george       -S3-
+
+159.253.47.40:1080:george:george       -S4-
+
+195.142.243.136:65000:george:george    -S5-
+
+89.252.171.3:1080:george:george        -S6-
+
+195.142.21.24:65000:george:george      -S7-
+
+212.12.141.176:1080:george:george      -S8-
+						
+95.173.162.238:1080:george:george      -S9-
+
+159.253.47.50:1080:george:george       -S10-
+
+62.244.253.251:1080:george:george   -S1-
+
+195.142.163.175:65000:george:george
+
+195.142.29.19:65000:george:george
+89.252.171.28:1080:george:george
+89.252.176.179:1080:george:george
+195.142.242.210:65000:george:george
+159.253.46.231:1080:george:george
+94.102.3.249:1080:george:george
+195.46.151.244:1080:george:george
+46.221.42.196:1080:george:george
+89.252.166.152:1080:george:george
+217.131.9.233:65000:george:george
+217.131.9.237:65000:george:george
+195.142.148.203:65000:george:george
